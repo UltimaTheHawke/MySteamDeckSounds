@@ -1,0 +1,9 @@
+{
+  "name": "PS2 Sounds",
+  "description": "Some PS2 sounds. Sounds taken from the Sounds Resource.",
+  "author": "ChaotixTF2",
+  "version": "v0.1",
+  "manifest_version": 1,
+  "music": false,
+  "ignore": []
+}
